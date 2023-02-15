@@ -18,7 +18,7 @@ Calculadora feita pelo programa Bora Codar da Rocketseat.<br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Calculadora" src=".github/preview.PNG" width="100%">
+  <img alt="projeto Calculadora" src=".github/preview.PNG" width="30%">
 </p>
 
 ## 🚀 Tecnologias
